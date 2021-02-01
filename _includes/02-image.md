@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Octocat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Foctocat&psig=AOvVaw3hyp0UKTyR6JR_x66WLFFV&ust=1612285463878000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC1hceVye4CFQAAAAAdAAAAABAD)
