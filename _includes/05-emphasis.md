@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Deep Learning__, _Python Programming_, *Flutter* **App** Development 
